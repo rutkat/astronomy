@@ -7,11 +7,12 @@ Build a react application which has a user input for a calendar date. The date s
 retrieve a photo from NASA's API and render it in the browser.
 
 ## Notes
-This app was build with ReactJS using client-side rendering and hooks for state management and NASA's API from https://api.nasa.gov/planetary. The folder structure contains the source code in `src` and the boilerplate html file is located in `public`. To add some basic styling, the semantic-ui css library file was added from the cdn https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css
+This app was build with ReactJS using client-side rendering, hooks for state management and NASA's API from https://api.nasa.gov/planetary. The folder structure contains the source code in `src` and the boilerplate html file is located in `public`. To add some basic styling, the [semantic-ui css library](https://semantic-ui.com/) file was added from the [CDN](https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css)
 
-├── apis              # api files with keys and endpoints
-├── components 				# Main app code and photo container
-└── index.js          # Binds react with DOM id
+Folder structure inside `/src`
+`apis`          API file with key and endpoint
+`components` 		Main app code and photo container
+`index.js`      Binds react with DOM id
 
 ## Setup
 
