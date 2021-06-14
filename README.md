@@ -1,6 +1,7 @@
 # NASA Photo of the Day Demo by Tom Rutka
 
 [![Screenshot](demo-screenshot.jpg "Demo screenshot")](https://youtu.be/4ZixUFy9afc)
+
 [Click to watch code walkthrough!](https://youtu.be/4ZixUFy9afc)
 
 ## Objective
